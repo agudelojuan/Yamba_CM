@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="username_summary">username_summary</string>
+    <string name="password">password</string>
+    <string name="password_summary">password_summary</string>
+    <string name="refresh">refresh</string>
+    <string name="purge">purge</string>
+</resources>
